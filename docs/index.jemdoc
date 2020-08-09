@@ -5,15 +5,15 @@
 
 # = Jiaqi Li's Homepage
 ~~~
-{}{img_left}{./photos/resume-photo.jpg}{resume-photo}{142px}{200px}{}
+{}{img_left}{./photos/resume-photo.jpg}{resume-photo}{150px}{200px}{}
 = Jiaqi Li(李家起)
 Ph.D student in Computer Science\n
-E-mail: lijiaqi.victor (at) gmail.com\n
+*E-mail*: lijiaqi.victor (at) gmail.com\n
 \[[https://github.com/ljqcava Github]\] \[[https://www.linkedin.com/in/jiaqi-li-488b0ab3/ Linkedin]\]
 ~~~
 
 == About me
-I am a Ph.D student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario(Canada)], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
+I am a Ph.D. student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario(Canada)], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
 Before that, I received my bachelor's degree of Mathematics in 2016 and master's degree of Computer Science in 2019, both in [https://www.buaa.edu.cn/ Beihang University(China)].
 
 Currently, my research interests focus on machine learning, especially on transfer learning.
@@ -21,11 +21,11 @@ Currently, my research interests focus on machine learning, especially on transf
 == News
 
 == Education
-- M.Eng of Computer Science, Beihang University.    /Sept. 2016 -- Jun. 2019/
+#- M.Eng of Computer Science, Beihang University.    /Sept. 2016 -- Jun. 2019/
 
-- B.Sc of Mathematics and Applied Mathematics, Beihang University. (Sept. 2012 -- Jun. 2016)
+#- B.Sc of Mathematics and Applied Mathematics, Beihang University. (Sept. 2012 -- Jun. 2016)
 
-- Dual Diploma of /Ingénieur Général/, L'Ecole Centrale de Pekin. (Sept. 2012 -- Jun. 2019)
+#- Dual Diploma of /Ingénieur Général/, L'Ecole Centrale de Pekin. (Sept. 2012 -- Jun. 2019)
 
 #== Internships
 #- Research Institute of [https://www.sensetime.com/en Sensetime]
