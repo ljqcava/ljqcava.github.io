@@ -7,18 +7,23 @@
 ~~~
 {}{img_left}{./photos/resume-photo.jpg}{resume-photo}{155px}{200px}{}
 = Jiaqi Li(李家起)
-Ph.D student in Computer Science\n
-*E-mail*: lijiaqi.victor (at) gmail.com\n
+Ph.D. student\n
+[https://www.csd.uwo.ca/ Department of Computer Science],\n
+[https://www.uwo.ca/ University of Western Ontario], CA\n
+
+*E-mail*: lijiaqi.victor (at) gmail.com *or* jli3779 (at) uwo.ca\n
 \[[https://github.com/lijiaqi Github]\] \[[https://www.linkedin.com/in/jiaqi-li-488b0ab3/ Linkedin]\]
 ~~~
 
 == About me
-I am a Ph.D. student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario(Canada)], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
-Before that, I received my bachelor's degree of Mathematics in 2016 and master's degree of Computer Science in 2019, both in [https://www.buaa.edu.cn/ Beihang University].
+I am a Ph.D. student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
+Before that, I received my bachelor's degree of Mathematics and master's degree of Computer Science in [https://www.buaa.edu.cn/ Beihang University].
 
 Currently, my research interests focus on machine learning, especially on transfer learning.
 
 == News
+#- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
+#- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}
 
 #== Education
 #- M.Eng of Computer Science, Beihang University.    /Sept. 2016 -- Jun. 2019/
