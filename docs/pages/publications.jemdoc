@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{publications.html}{../}
+# jemdoc: title{Publications}
+# jemdoc: nodate
+# jemdoc: addcss{../jemdoc.css}
+
+
+== Publications
+
+- *"Aggregating From Multiple Target-Shifted Sources"*.\n
+[https://cjshui.github.io/ Changjian Shui ], Zijian Li, *Jiaqi Li*, Christian Gagné, Charles X. Ling, Boyu Wang. ICML 2021.
+\[[https://arxiv.org/abs/2105.04051 arXiv]\]

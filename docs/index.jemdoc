@@ -16,14 +16,17 @@ Ph.D. student\n
 ~~~
 
 == About me
-I am a Ph.D. student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
-Before that, I received my bachelor's degree of Mathematics and master's degree of Computer Science in [https://www.buaa.edu.cn/ Beihang University].
+I'm a Ph.D. student in Computer Science at [https://www.uwo.ca/ the University of Western Ontario], under the supervision of [https://sites.google.com/site/borriewang/ A/Prof. Boyu Wang] and [https://cling.csd.uwo.ca/ Prof. Charles X. Ling]. 
+Before that, I received my bachelor's degree of Applied Mathematics and master's degree of Computer Science in [https://www.buaa.edu.cn/ Beihang University].
 
-Currently, my research interests focus on machine learning, especially on transfer learning.
+Currently, my research interests focus on machine learning theories and their applications, especially on transfer learning.
+
+Besides, it's a great experience to work with other excellent researchers like [https://cjshui.github.io/ Changjian Shui], etc.
 
 == News
 #- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
 #- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}
+- \[May 2021\] Our paper "[https://arxiv.org/abs/2105.04051 *Aggregating From Multiple Target-Shifted Sources*]" is accepted by ICML 2021.
 
 #== Education
 #- M.Eng of Computer Science, Beihang University.    /Sept. 2016 -- Jun. 2019/
@@ -33,4 +36,4 @@ Currently, my research interests focus on machine learning, especially on transf
 #- Dual Diploma of /Ingénieur Général/, L'Ecole Centrale de Pekin. (Sept. 2012 -- Jun. 2019)
 
 #== Internships
-#- Research Institute of [https://www.sensetime.com/en Sensetime]
+#- [https://www.sensetime.com/en Research Institute of Sensetime]. /Jul. 2018 -- Jan. 2019/
